@@ -1,6 +1,6 @@
 #💻Felipe Matis
 
-**Desenvolvedor**
+**`Desenvolvedor`**
 
 Sou Felipe, tenho 20 anos, paranaense. Atualmente, sou estudante de Ciência da Computação na Unicentro, dando continuidade aos meus estudos iniciados na UNEP, onde cursei dois anos na mesma área.
 
