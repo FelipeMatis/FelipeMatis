@@ -6,7 +6,7 @@ Sou Felipe, tenho 20 anos, paranaense. Atualmente, sou estudante de Ciência da 
 
  - 🏆 2º Lugar 🥈 AgroHackathon - AgroHub 2024.
 
- ### 🤖 Linguagens e Tecnologias-(conhecimento basico)
+ ### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left"
